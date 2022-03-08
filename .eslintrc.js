@@ -16,6 +16,7 @@ module.exports = {
   rules: {
     semi: ['error', 'always'],
     // suppress errors for missing 'import React' in files since this is a nextjs project we don't need to import React in every file
-    'react/react-in-jsx-scope': 'off'
+    'react/react-in-jsx-scope': 'off',
+    'react/prop-types': 'off'
   }
 };

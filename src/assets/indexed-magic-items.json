@@ -1,0 +1,3850 @@
+[
+  {
+    "name": "Absorbing Tattoo",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "absorbing-tattoo"
+  },
+  {
+    "name": "Adamantine Armor",
+    "rarity": "uncommon",
+    "type": "Armor",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "adamantine-armor"
+  },
+  {
+    "name": "Alchemical Compendium",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "alchemical-compendium"
+  },
+  {
+    "name": "Alchemy Jug",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (BR)",
+    "index": "alchemy-jug"
+  },
+  {
+    "name": "All-Purpose Tool (+1)",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "all-purpose-tool"
+  },
+  {
+    "name": "All-Purpose Tool (+2)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "all-purpose-tool"
+  },
+  {
+    "name": "All-Purpose Tool (+3)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "all-purpose-tool"
+  },
+  {
+    "name": "Amethyst Lodestone",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Fizban's Treasury of Dragons",
+    "index": "amethyst-lodestone"
+  },
+  {
+    "index": "ammunition",
+    "name": "Ammunition (+1)",
+    "rarity": "uncommon",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "ammunition",
+    "name": "Ammunition (+2)",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "ammunition",
+    "name": "Ammunition (+3)",
+    "rarity": "very rare",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "name": "Amulet of Health",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "amulet-of-health"
+  },
+  {
+    "name": "Amulet of Proof against Detection and Location",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "amulet-of-proof-against-detection-and-location"
+  },
+  {
+    "index": "amulet-of-the-devout",
+    "name": "Amulet of the Devout (+1)",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "index": "amulet-of-the-devout",
+    "name": "Amulet of the Devout (+2)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "index": "amulet-of-the-devout",
+    "name": "Amulet of the Devout (+3)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "name": "Amulet of the Planes",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "amulet-of-the-planes"
+  },
+  {
+    "name": "Animated Shield",
+    "rarity": "very rare",
+    "type": "Armor ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "animated-shield"
+  },
+  {
+    "name": "Apparatus of Kwalish",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "apparatus-of-kwalish"
+  },
+  {
+    "index": "arcane-grimoire",
+    "name": "Arcane Grimoire (+1)",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "index": "arcane-grimoire",
+    "name": "Arcane Grimoire (+2)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "index": "arcane-grimoire",
+    "name": "Arcane Grimoire (+3)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "index": "armor",
+    "name": "Armor (+1)",
+    "rarity": "rare",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "armor",
+    "name": "Armor (+2)",
+    "rarity": "very rare",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "armor",
+    "name": "Armor (+3)",
+    "rarity": "legendary",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "name": "Armor of Gleaming",
+    "rarity": "common",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "armor-of-gleaming"
+  },
+  {
+    "name": "Armor of Invulnerability",
+    "rarity": "legendary",
+    "type": "Armor ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "armor-of-invulnerability"
+  },
+  {
+    "name": "Armor of Resistance",
+    "rarity": "rare",
+    "type": "Armor ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "armor-of-resistance"
+  },
+  {
+    "name": "Armor of Vulnerability",
+    "rarity": "rare",
+    "type": "Armor ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "armor-of-vulnerability"
+  },
+  {
+    "name": "Arrow of Slaying",
+    "rarity": "very rare",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "arrow-of-slaying"
+  },
+  {
+    "name": "Arrow-Catching Shield",
+    "rarity": "rare",
+    "type": "Armor ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "arrow-catching-shield"
+  },
+  {
+    "name": "Astral Shard",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "astral-shard"
+  },
+  {
+    "name": "Astromancy Archive",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "astromancy-archive"
+  },
+  {
+    "name": "Atlas of Endless Horizons",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "atlas-of-endless-horizons"
+  },
+  {
+    "name": "Axe of the Dwarvish Lords",
+    "rarity": "artifact",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "axe-of-the-dwarvish-lords"
+  },
+  {
+    "name": "Baba Yaga's Mortar and Pestle",
+    "rarity": "artifact",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "baba-yaga's-mortar-and-pestle"
+  },
+  {
+    "name": "Bag of Beans",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "bag-of-beans"
+  },
+  {
+    "name": "Bag of Devouring",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "bag-of-devouring"
+  },
+  {
+    "name": "Bag of Holding",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "bag-of-holding"
+  },
+  {
+    "index": "bag-of-tricks",
+    "name": "Bag of Tricks (Gray)",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "bag-of-tricks",
+    "name": "Bag of Tricks (Rust)",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "bag-of-tricks",
+    "name": "Bag of Tricks (Tan)",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "barrier-tattoo",
+    "name": "Barrier Tattoo",
+    "rarity": "common",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "index": "barrier-tattoo",
+    "name": "Barrier Tattoo",
+    "rarity": "uncommon",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "index": "barrier-tattoo",
+    "name": "Barrier Tattoo",
+    "rarity": "rare",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "index": "barrier-tattoo",
+    "name": "Barrier Tattoo",
+    "rarity": "very rare",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "index": "barrier-tattoo",
+    "name": "Barrier Tattoo",
+    "rarity": "legendary",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "name": "Bead of Force",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "bead-of-force"
+  },
+  {
+    "name": "Bead of Nourishment",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "bead-of-nourishment"
+  },
+  {
+    "name": "Bead of Refreshment",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "bead-of-refreshment"
+  },
+  {
+    "name": "Bell Branch",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "bell-branch"
+  },
+  {
+    "name": "Belt of Cloud Giant Strength",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "belt-of-cloud-giant-strength"
+  },
+  {
+    "name": "Belt of Dwarvenkind",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "belt-of-dwarvenkind"
+  },
+  {
+    "name": "Belt of Fire Giant Strength",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "belt-of-fire-giant-strength"
+  },
+  {
+    "name": "Belt of Frost Giant Strength",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "belt-of-frost-giant-strength"
+  },
+  {
+    "name": "Belt of Hill Giant Strength",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "belt-of-hill-giant-strength"
+  },
+  {
+    "name": "Belt of Stone Giant Strength",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "belt-of-stone-giant-strength"
+  },
+  {
+    "name": "Belt of Storm Giant Strength",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "belt-of-storm-giant-strength"
+  },
+  {
+    "name": "Berserker Axe",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "berserker-axe"
+  },
+  {
+    "name": "Blackrazor",
+    "rarity": "legendary",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "blackrazor"
+  },
+  {
+    "name": "Blood Fury Tattoo",
+    "rarity": "legendary",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "blood-fury-tattoo"
+  },
+  {
+    "index": "bloodwell-vial",
+    "name": "Bloodwell Vial (+1)",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "index": "bloodwell-vial",
+    "name": "Bloodwell Vial (+2)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "index": "bloodwell-vial",
+    "name": "Bloodwell Vial (+3)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything"
+  },
+  {
+    "name": "Book of Exalted Deeds",
+    "rarity": "artifact",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "book-of-exalted-deeds"
+  },
+  {
+    "name": "Book of Vile Darkness",
+    "rarity": "artifact",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "book-of-vile-darkness"
+  },
+  {
+    "name": "Boots of Elvenkind",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "boots-of-elvenkind"
+  },
+  {
+    "name": "Boots of False Tracks",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "boots-of-false-tracks"
+  },
+  {
+    "name": "Boots of Levitation",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "boots-of-levitation"
+  },
+  {
+    "name": "Boots of Speed",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "boots-of-speed"
+  },
+  {
+    "name": "Boots of Striding and Springing",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "boots-of-striding-and-springing"
+  },
+  {
+    "name": "Boots of the Winterlands",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "boots-of-the-winterlands"
+  },
+  {
+    "name": "Bowl of Commanding Water Elementals",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "bowl-of-commanding-water-elementals"
+  },
+  {
+    "name": "Bracers of Archery",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "bracers-of-archery"
+  },
+  {
+    "name": "Bracers of Defense",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "bracers-of-defense"
+  },
+  {
+    "name": "Brazier of Commanding Fire Elementals",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "brazier-of-commanding-fire-elementals"
+  },
+  {
+    "name": "Brooch of Shielding",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "brooch-of-shielding"
+  },
+  {
+    "name": "Broom of Flying",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "broom-of-flying"
+  },
+  {
+    "name": "Candle of Invocation",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "candle-of-invocation"
+  },
+  {
+    "name": "Candle of the Deep",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "candle-of-the-deep"
+  },
+  {
+    "name": "Cap of Water Breathing",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide",
+    "index": "cap-of-water-breathing"
+  },
+  {
+    "name": "Cape of the Mountebank",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "cape-of-the-mountebank"
+  },
+  {
+    "name": "Carpet of Flying",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "carpet-of-flying"
+  },
+  {
+    "name": "Cast-off Armor",
+    "rarity": "common",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "cast-off-armor"
+  },
+  {
+    "name": "Cauldron of Rebirth",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "cauldron-of-rebirth"
+  },
+  {
+    "name": "Censer of Controlling Air Elementals",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "censer-of-controlling-air-elementals"
+  },
+  {
+    "name": "Charlatan's Die",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Xanathar's Guide to Everything",
+    "index": "charlatan's-die"
+  },
+  {
+    "name": "Chime of Opening",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "chime-of-opening"
+  },
+  {
+    "name": "Circlet of Blasting",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "circlet-of-blasting"
+  },
+  {
+    "name": "Cloak of Arachnida",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "cloak-of-arachnida"
+  },
+  {
+    "name": "Cloak of Billowing",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "cloak-of-billowing"
+  },
+  {
+    "name": "Cloak of Displacement",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "cloak-of-displacement"
+  },
+  {
+    "name": "Cloak of Elvenkind",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "cloak-of-elvenkind"
+  },
+  {
+    "name": "Cloak of Invisibility",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "cloak-of-invisibility"
+  },
+  {
+    "name": "Cloak of Many Fashions",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "cloak-of-many-fashions"
+  },
+  {
+    "name": "Cloak of Protection",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "cloak-of-protection"
+  },
+  {
+    "name": "Cloak of the Bat",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "cloak-of-the-bat"
+  },
+  {
+    "name": "Cloak of the Manta Ray",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "cloak-of-the-manta-ray"
+  },
+  {
+    "name": "Clockwork Amulet",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "clockwork-amulet"
+  },
+  {
+    "name": "Clothes of Mending",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "clothes-of-mending"
+  },
+  {
+    "name": "Coiling Grasp Tattoo",
+    "rarity": "uncommon",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "coiling-grasp-tattoo"
+  },
+  {
+    "name": "Crook of Rao",
+    "rarity": "artifact",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "crook-of-rao"
+  },
+  {
+    "name": "Crystal Ball",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "crystal-ball"
+  },
+  {
+    "name": "Crystal Ball",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "crystal-ball"
+  },
+  {
+    "name": "Crystalline Chronicle",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "crystalline-chronicle"
+  },
+  {
+    "name": "Cube of Force",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "cube-of-force"
+  },
+  {
+    "name": "Cubic Gate",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "cubic-gate"
+  },
+  {
+    "name": "Daern's Instant Fortress",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "daern's-instant-fortress"
+  },
+  {
+    "name": "Dagger of Venom",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "dagger-of-venom"
+  },
+  {
+    "name": "Dancing Sword",
+    "rarity": "very rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "dancing-sword"
+  },
+  {
+    "name": "Dark Shard Amulet",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Xanathar's Guide to Everything",
+    "index": "dark-shard-amulet"
+  },
+  {
+    "name": "Decanter of Endless Water",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "decanter-of-endless-water"
+  },
+  {
+    "name": "Deck of Illusions",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "deck-of-illusions"
+  },
+  {
+    "name": "Deck of Many Things",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "deck-of-many-things"
+  },
+  {
+    "name": "Defender",
+    "rarity": "legendary",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "defender"
+  },
+  {
+    "name": "Demon Armor",
+    "rarity": "very rare",
+    "type": "Armor ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "demon-armor"
+  },
+  {
+    "name": "Demonomicon of Iggwilv",
+    "rarity": "artifact",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "demonomicon-of-iggwilv"
+  },
+  {
+    "name": "Devotee's Censer",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "devotee's-censer"
+  },
+  {
+    "name": "Dimensional Shackles",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "dimensional-shackles"
+  },
+  {
+    "name": "Dragon Scale Mail",
+    "rarity": "very rare",
+    "type": "Armor ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "dragon-scale-mail"
+  },
+  {
+    "name": "Dragon Slayer",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "dragon-slayer"
+  },
+  {
+    "name": "Dragonhide Belt +1, +2, or +3",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Fizban's Treasury of Dragons",
+    "index": "dragonhide-belt-+1,-+2,-or-+3"
+  },
+  {
+    "name": "Dread Helm",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "dread-helm"
+  },
+  {
+    "name": "Driftglobe",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (BR)",
+    "index": "driftglobe"
+  },
+  {
+    "name": "Duplicitous Manuscript",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "duplicitous-manuscript"
+  },
+  {
+    "name": "Dust of Disappearance",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "dust-of-disappearance"
+  },
+  {
+    "name": "Dust of Dryness",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "dust-of-dryness"
+  },
+  {
+    "name": "Dust of Sneezing and Choking",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "dust-of-sneezing-and-choking"
+  },
+  {
+    "name": "Dwarven Plate",
+    "rarity": "very rare",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "dwarven-plate"
+  },
+  {
+    "name": "Dwarven Thrower",
+    "rarity": "very rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "dwarven-thrower"
+  },
+  {
+    "name": "Ear Horn of Hearing",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "ear-horn-of-hearing"
+  },
+  {
+    "name": "Efreeti Bottle",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "efreeti-bottle"
+  },
+  {
+    "name": "Efreeti Chain",
+    "rarity": "legendary",
+    "type": "Armor ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "efreeti-chain"
+  },
+  {
+    "name": "Eldritch Claw Tattoo",
+    "rarity": "uncommon",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "eldritch-claw-tattoo"
+  },
+  {
+    "name": "Elemental Essence Shard",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "elemental-essence-shard"
+  },
+  {
+    "name": "Elemental Gem",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "elemental-gem"
+  },
+  {
+    "name": "Elixir of Health",
+    "rarity": "rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (BR)",
+    "index": "elixir-of-health"
+  },
+  {
+    "name": "Elven Chain",
+    "rarity": "rare",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "elven-chain"
+  },
+  {
+    "name": "Emerald Pen",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Fizban's Treasury of Dragons",
+    "index": "emerald-pen"
+  },
+  {
+    "name": "Enduring Spellbook",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "enduring-spellbook"
+  },
+  {
+    "name": "Ersatz Eye",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Xanathar's Guide to Everything",
+    "index": "ersatz-eye"
+  },
+  {
+    "name": "Eversmoking Bottle",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "eversmoking-bottle"
+  },
+  {
+    "name": "Eye and Hand of Vecna",
+    "rarity": "artifact",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "eye-and-hand-of-vecna"
+  },
+  {
+    "name": "Eyes of Charming",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "eyes-of-charming"
+  },
+  {
+    "name": "Eyes of Minute Seeing",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "eyes-of-minute-seeing"
+  },
+  {
+    "name": "Eyes of the Eagle",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "eyes-of-the-eagle"
+  },
+  {
+    "name": "Far Realm Shard",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "far-realm-shard"
+  },
+  {
+    "name": "Feywild Shard",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "feywild-shard"
+  },
+  {
+    "index": "figurine-of-wondrous-power",
+    "name": "Figurine of Wondrous Power (Bronze Griffin)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "figurine-of-wondrous-power",
+    "name": "Figurine of Wondrous Power (Ebony Fly)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "figurine-of-wondrous-power",
+    "name": "Figurine of Wondrous Power (Golden Lions)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "figurine-of-wondrous-power",
+    "name": "Figurine of Wondrous Power (Ivory Goats)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "figurine-of-wondrous-power",
+    "name": "Figurine of Wondrous Power (Marble Elephant)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "figurine-of-wondrous-power",
+    "name": "Figurine of Wondrous Power (Obsidian Steed)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "figurine-of-wondrous-power",
+    "name": "Figurine of Wondrous Power (Onyx Dog)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "figurine-of-wondrous-power",
+    "name": "Figurine of Wondrous Power (Serpentine Owl)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "index": "figurine-of-wondrous-power",
+    "name": "Figurine of Wondrous Power (Silver Raven)",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)"
+  },
+  {
+    "name": "Flail of Tiamat",
+    "rarity": "legendary",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Fizban's Treasury of Dragons",
+    "index": "flail-of-tiamat"
+  },
+  {
+    "name": "Flame Tongue",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "flame-tongue"
+  },
+  {
+    "name": "Folding Boat",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "folding-boat"
+  },
+  {
+    "name": "Frost Brand",
+    "rarity": "very rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "frost-brand"
+  },
+  {
+    "name": "Fulminating Treatise",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "fulminating-treatise"
+  },
+  {
+    "name": "Gauntlets of Ogre Power",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "gauntlets-of-ogre-power"
+  },
+  {
+    "name": "Gem of Brightness",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "gem-of-brightness"
+  },
+  {
+    "name": "Gem of Seeing",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "gem-of-seeing"
+  },
+  {
+    "name": "Ghost Step Tattoo",
+    "rarity": "very rare",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "ghost-step-tattoo"
+  },
+  {
+    "name": "Giant Slayer",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "giant-slayer"
+  },
+  {
+    "name": "Glamoured Studded Leather",
+    "rarity": "rare",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "glamoured-studded-leather"
+  },
+  {
+    "name": "Gloves of Missile Snaring",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "gloves-of-missile-snaring"
+  },
+  {
+    "name": "Gloves of Swimming and Climbing",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "gloves-of-swimming-and-climbing"
+  },
+  {
+    "name": "Gloves of Thievery",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide",
+    "index": "gloves-of-thievery"
+  },
+  {
+    "name": "Goggles of Night",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "goggles-of-night"
+  },
+  {
+    "name": "Gold Canary Figurine of Wondrous Power",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Fizban's Treasury of Dragons",
+    "index": "gold-canary-figurine-of-wondrous-power"
+  },
+  {
+    "name": "Guardian Emblem",
+    "rarity": "uncommon",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "guardian-emblem"
+  },
+  {
+    "name": "Hammer of Thunderbolts",
+    "rarity": "legendary",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "hammer-of-thunderbolts"
+  },
+  {
+    "name": "Hat of Disguise",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "hat-of-disguise"
+  },
+  {
+    "name": "Hat of Vermin",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "hat-of-vermin"
+  },
+  {
+    "name": "Hat of Wizardry",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Xanathar's Guide to Everything",
+    "index": "hat-of-wizardry"
+  },
+  {
+    "name": "Headband of Intellect",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "headband-of-intellect"
+  },
+  {
+    "name": "Heart Weaver's Primer",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "heart-weaver's-primer"
+  },
+  {
+    "name": "Helm of Brilliance",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "helm-of-brilliance"
+  },
+  {
+    "name": "Helm of Comprehending Languages",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "helm-of-comprehending-languages"
+  },
+  {
+    "name": "Helm of Telepathy",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "helm-of-telepathy"
+  },
+  {
+    "name": "Helm of Teleportation",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "helm-of-teleportation"
+  },
+  {
+    "name": "Heward's Handy Haversack",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "heward's-handy-haversack"
+  },
+  {
+    "name": "Heward's Handy Spice Pouch",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "heward's-handy-spice-pouch"
+  },
+  {
+    "name": "Holy Avenger",
+    "rarity": "legendary",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "holy-avenger"
+  },
+  {
+    "name": "Horn of Blasting",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "horn-of-blasting"
+  },
+  {
+    "name": "Horn of Silent Alarm",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "horn-of-silent-alarm"
+  },
+  {
+    "name": "Horn of Valhalla (Brass)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "horn-of-valhalla"
+  },
+  {
+    "name": "Horn of Valhalla (Silver)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "horn-of-valhalla"
+  },
+  {
+    "name": "Horn of Valhalla (Bronze)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "horn-of-valhalla"
+  },
+  {
+    "name": "Horn of Valhalla (Iron)",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "horn-of-valhalla"
+  },
+  {
+    "name": "Horseshoes of a Zephyr",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "horseshoes-of-a-zephyr"
+  },
+  {
+    "name": "Horseshoes of Speed",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "horseshoes-of-speed"
+  },
+  {
+    "name": "Iggwilv's Cauldron",
+    "rarity": "artifact",
+    "type": "Wondrous Item",
+    "requiresAttunement": false,
+    "source": "Adventures (The Wild Beyond The Witchlight)",
+    "index": "iggwilv's-cauldron"
+  },
+  {
+    "name": "Illuminator's Tattoo",
+    "rarity": "common",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "illuminator's-tattoo"
+  },
+  {
+    "name": "Immovable Rod",
+    "rarity": "uncommon",
+    "type": "Rod",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "immovable-rod"
+  },
+  {
+    "name": "Instrument of Illusions",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Xanathar's Guide to Everything",
+    "index": "instrument-of-illusions"
+  },
+  {
+    "name": "Instrument of Scribing",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Xanathar's Guide to Everything",
+    "index": "instrument-of-scribing"
+  },
+  {
+    "name": "Anstruth Harp",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "anstruth-harp"
+  },
+  {
+    "name": "Canaith Mandolin",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "canaith-mandolin"
+  },
+  {
+    "name": "Cli Lyre",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "cli-lyre"
+  },
+  {
+    "name": "Doss Lute",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "doss-lute"
+  },
+  {
+    "name": "Fochlucan Bandore",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "fochlucan-bandore"
+  },
+  {
+    "name": "Mac-Fuirmidh Cittern",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "mac-fuirmidh-cittern"
+  },
+  {
+    "name": "Ollamh Harp",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "ollamh-harp"
+  },
+  {
+    "name": "Ioun Stone (Absorption)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Agility)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Awareness)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Fortitude)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Greater Absorption)",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Insight)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Intellect)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Leadership)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Mastery)",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Protection)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Regeneration)",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Reserve)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Strength)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Sustenance)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Supreme Intellect)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Historical Knowledge)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Natural Knowledge)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Religous Knowledge)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Laguage Knowledge)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Ioun Stone (Self-Preservation)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ioun-stone"
+  },
+  {
+    "name": "Iron Bands of Bilarro",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "iron-bands-of-bilarro"
+  },
+  {
+    "name": "Iron Flask",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "iron-flask"
+  },
+  {
+    "name": "Javelin of Lightning",
+    "rarity": "uncommon",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "javelin-of-lightning"
+  },
+  {
+    "name": "Keoghtom's Ointment",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "keoghtom's-ointment"
+  },
+  {
+    "name": "Lantern of Revealing",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "lantern-of-revealing"
+  },
+  {
+    "name": "Libram of Souls and Flesh",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "libram-of-souls-and-flesh"
+  },
+  {
+    "name": "Lifewell Tattoo",
+    "rarity": "very rare",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "lifewell-tattoo"
+  },
+  {
+    "name": "Lock of Trickery",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "lock-of-trickery"
+  },
+  {
+    "name": "Luba's Tarokka of Souls",
+    "rarity": "artifact",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "luba's-tarokka-of-souls"
+  },
+  {
+    "name": "Luck Blade",
+    "rarity": "legendary",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "luck-blade"
+  },
+  {
+    "name": "Lyre of Building",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "lyre-of-building"
+  },
+  {
+    "name": "Mace of Disruption",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "mace-of-disruption"
+  },
+  {
+    "name": "Mace of Smiting",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "mace-of-smiting"
+  },
+  {
+    "name": "Mace of Terror",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "mace-of-terror"
+  },
+  {
+    "name": "Mantle of Spell Resistance",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "mantle-of-spell-resistance"
+  },
+  {
+    "name": "Manual of Bodily Health",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "manual-of-bodily-health"
+  },
+  {
+    "name": "Manual of Gainful Exercise",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "manual-of-gainful-exercise"
+  },
+  {
+    "name": "Manual of Golems",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "manual-of-golems"
+  },
+  {
+    "name": "Manual of Quickness of Action",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "manual-of-quickness-of-action"
+  },
+  {
+    "name": "Mariner's Armor",
+    "rarity": "uncommon",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (BR)",
+    "index": "mariner's-armor"
+  },
+  {
+    "name": "Masquerade Tattoo",
+    "rarity": "common",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "masquerade-tattoo"
+  },
+  {
+    "name": "Medallion of Thoughts",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "medallion-of-thoughts"
+  },
+  {
+    "name": "Mighty Servant of Leuk-o",
+    "rarity": "artifact",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "mighty-servant-of-leuk-o"
+  },
+  {
+    "name": "Mirror of Life Trapping",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "mirror-of-life-trapping"
+  },
+  {
+    "name": "Mithral Armor",
+    "rarity": "uncommon",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "mithral-armor"
+  },
+  {
+    "name": "Moon Sickle (+1)",
+    "rarity": "uncommon",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "moon-sickle"
+  },
+  {
+    "name": "Moon Sickle (+2)",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "moon-sickle"
+  },
+  {
+    "name": "Moon Sickle (+3)",
+    "rarity": "very rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "moon-sickle"
+  },
+  {
+    "name": "Moon-touched Sword",
+    "rarity": "common",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "moon-touched-sword"
+  },
+  {
+    "name": "Moonblade",
+    "rarity": "legendary",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "moonblade"
+  },
+  {
+    "name": "Mystery Key",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "mystery-key"
+  },
+  {
+    "name": "Nature's Mantle",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "nature's-mantle"
+  },
+  {
+    "name": "Necklace of Adaptation",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "necklace-of-adaptation"
+  },
+  {
+    "name": "Necklace of Fireballs",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "necklace-of-fireballs"
+  },
+  {
+    "name": "Necklace of Prayer Beads",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "necklace-of-prayer-beads"
+  },
+  {
+    "name": "Nine Lives Stealer",
+    "rarity": "very rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "nine-lives-stealer"
+  },
+  {
+    "name": "Nolzur's Marvelous Pigments",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "nolzur's-marvelous-pigments"
+  },
+  {
+    "name": "Oathbow",
+    "rarity": "very rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "oathbow"
+  },
+  {
+    "name": "Oil of Etherealness",
+    "rarity": "rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "oil-of-etherealness"
+  },
+  {
+    "name": "Oil of Sharpness",
+    "rarity": "very rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "oil-of-sharpness"
+  },
+  {
+    "name": "Oil of Slipperiness",
+    "rarity": "uncommon",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "oil-of-slipperiness"
+  },
+  {
+    "name": "Orb of Direction",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "orb-of-direction"
+  },
+  {
+    "name": "Orb of Dragonkind",
+    "rarity": "artifact",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "orb-of-dragonkind"
+  },
+  {
+    "name": "Orb of Time",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "orb-of-time"
+  },
+  {
+    "name": "Outer Essence Shard",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "outer-essence-shard"
+  },
+  {
+    "name": "Pearl of Power",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "pearl-of-power"
+  },
+  {
+    "name": "Perfume of Bwitching",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "perfume-of-bwitching"
+  },
+  {
+    "name": "Periapt of Health",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "periapt-of-health"
+  },
+  {
+    "name": "Periapt of Proof against Poison",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "periapt-of-proof-against-poison"
+  },
+  {
+    "name": "Periapt of Wound Closure",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "periapt-of-wound-closure"
+  },
+  {
+    "name": "Philter of Love",
+    "rarity": "uncommon",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "philter-of-love"
+  },
+  {
+    "name": "Pipe of Smoke Monsters",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "pipe-of-smoke-monsters"
+  },
+  {
+    "name": "Pipes of Haunting",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "pipes-of-haunting"
+  },
+  {
+    "name": "Pipes of the Sewers",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "pipes-of-the-sewers"
+  },
+  {
+    "name": "Planecaller's Codex",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "planecaller's-codex"
+  },
+  {
+    "name": "Plate Armor of Etherealness",
+    "rarity": "legendary",
+    "type": "Armor ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "plate-armor-of-etherealness"
+  },
+  {
+    "name": "Platinum Scarf",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Fizban's Treasury of Dragons",
+    "index": "platinum-scarf"
+  },
+  {
+    "name": "Pole of Angling",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "pole-of-angling"
+  },
+  {
+    "name": "Pole of Collapsing",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "pole-of-collapsing"
+  },
+  {
+    "name": "Portable Hole",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "portable-hole"
+  },
+  {
+    "name": "Pot of Awakening",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "pot-of-awakening"
+  },
+  {
+    "name": "Potion of Animal Friendship",
+    "rarity": "uncommon",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-animal-friendship"
+  },
+  {
+    "name": "Potion of Clairvoyance",
+    "rarity": "rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-clairvoyance"
+  },
+  {
+    "name": "Potion of Climbing",
+    "rarity": "common",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-climbing"
+  },
+  {
+    "name": "Potion of Cloud Giant Strength",
+    "rarity": "very rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-cloud-giant-strength"
+  },
+  {
+    "name": "Potion of Diminution",
+    "rarity": "rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-diminution"
+  },
+  {
+    "name": "Potion of Dragon's Majesty",
+    "rarity": "legendary",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Fizban's Treasury of Dragons",
+    "index": "potion-of-dragon's-majesty"
+  },
+  {
+    "name": "Potion of Fire Breath",
+    "rarity": "uncommon",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (BR)",
+    "index": "potion-of-fire-breath"
+  },
+  {
+    "name": "Potion of Fire Giant Strength",
+    "rarity": "rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-fire-giant-strength"
+  },
+  {
+    "name": "Potion of Flying",
+    "rarity": "very rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-flying"
+  },
+  {
+    "name": "Potion of Frost Giant Strength",
+    "rarity": "rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-frost-giant-strength"
+  },
+  {
+    "name": "Potion of Gaseous Form",
+    "rarity": "rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-gaseous-form"
+  },
+  {
+    "name": "Potion of Growth",
+    "rarity": "uncommon",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-growth"
+  },
+  {
+    "name": "Potion of Healing",
+    "rarity": "common",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-healing"
+  },
+  {
+    "name": "Potion of Healing (Greater)",
+    "rarity": "uncommon",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-healing"
+  },
+  {
+    "name": "Potion of Healing (Superior)",
+    "rarity": "rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-healing"
+  },
+  {
+    "name": "Potion of Healing (Supreme)",
+    "rarity": "very rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-healing"
+  },
+  {
+    "name": "Potion of Heroism",
+    "rarity": "rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-heroism"
+  },
+  {
+    "name": "Potion of Hill Giant Strength",
+    "rarity": "uncommon",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-hill-giant-strength"
+  },
+  {
+    "name": "Potion of Invisibility",
+    "rarity": "very rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-invisibility"
+  },
+  {
+    "name": "Potion of Invulnerability",
+    "rarity": "rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (BR)",
+    "index": "potion-of-invulnerability"
+  },
+  {
+    "name": "Potion of Longevity",
+    "rarity": "very rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (BR)",
+    "index": "potion-of-longevity"
+  },
+  {
+    "name": "Potion of Mind Reading",
+    "rarity": "rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-mind-reading"
+  },
+  {
+    "name": "Potion of Poison",
+    "rarity": "uncommon",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-poison"
+  },
+  {
+    "name": "Potion of Resistance",
+    "rarity": "uncommon",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-resistance"
+  },
+  {
+    "name": "Potion of Speed",
+    "rarity": "very rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-speed"
+  },
+  {
+    "name": "Potion of Stone Giant Strength",
+    "rarity": "rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-stone-giant-strength"
+  },
+  {
+    "name": "Potion of Storm Giant Strength",
+    "rarity": "legendary",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-storm-giant-strength"
+  },
+  {
+    "name": "Potion of Vitality",
+    "rarity": "very rare",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (BR)",
+    "index": "potion-of-vitality"
+  },
+  {
+    "name": "Potion of Water Breathing",
+    "rarity": "uncommon",
+    "type": "Potion",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "potion-of-water-breathing"
+  },
+  {
+    "name": "Prosthetic Limb",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "prosthetic-limb"
+  },
+  {
+    "name": "Protective Verses",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "protective-verses"
+  },
+  {
+    "name": "Psi Crystal",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Adventures (Rime of the Frostmaiden)",
+    "index": "psi-crystal"
+  },
+  {
+    "name": "Quaal's Feather Token",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "quaal's-feather-token"
+  },
+  {
+    "name": "Quiver of Ehlonna",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "quiver-of-ehlonna"
+  },
+  {
+    "name": "Reveler's Concertina",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "reveler's-concertina"
+  },
+  {
+    "name": "Rhythm-Maker's Drum (+1)",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "rhythm-maker's-drum"
+  },
+  {
+    "name": "Rhythm-Maker's Drum (+2)",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "rhythm-maker's-drum"
+  },
+  {
+    "name": "Rhythm-Maker's Drum (+3)",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "rhythm-maker's-drum"
+  },
+  {
+    "name": "Ring of Animal Influence",
+    "rarity": "rare",
+    "type": "Ring",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-animal-influence"
+  },
+  {
+    "name": "Ring of Djinni Summoning",
+    "rarity": "legendary",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-djinni-summoning"
+  },
+  {
+    "name": "Ring of Elemental Command",
+    "rarity": "legendary",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-elemental-command"
+  },
+  {
+    "name": "Ring of Evasion",
+    "rarity": "rare",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-evasion"
+  },
+  {
+    "name": "Ring of Feather Falling",
+    "rarity": "rare",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-feather-falling"
+  },
+  {
+    "name": "Ring of Free Action",
+    "rarity": "rare",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-free-action"
+  },
+  {
+    "name": "Ring of Invisibility",
+    "rarity": "legendary",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-invisibility"
+  },
+  {
+    "name": "Ring of Jumping",
+    "rarity": "uncommon",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-jumping"
+  },
+  {
+    "name": "Ring of Mind Shielding",
+    "rarity": "uncommon",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-mind-shielding"
+  },
+  {
+    "name": "Ring of Poison Resistance",
+    "rarity": "rare",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (BR)",
+    "index": "ring-of-poison-resistance"
+  },
+  {
+    "name": "Ring of Protection",
+    "rarity": "rare",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-protection"
+  },
+  {
+    "name": "Ring of Regeneration",
+    "rarity": "very rare",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-regeneration"
+  },
+  {
+    "name": "Ring of Resistance",
+    "rarity": "rare",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-resistance"
+  },
+  {
+    "name": "Ring of Shooting Stars",
+    "rarity": "very rare",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-shooting-stars"
+  },
+  {
+    "name": "Ring of Spell Storing",
+    "rarity": "rare",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-spell-storing"
+  },
+  {
+    "name": "Ring of Spell Turning",
+    "rarity": "legendary",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-spell-turning"
+  },
+  {
+    "name": "Ring of Swimming",
+    "rarity": "uncommon",
+    "type": "Ring",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-swimming"
+  },
+  {
+    "name": "Ring of Telekinesis",
+    "rarity": "very rare",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-telekinesis"
+  },
+  {
+    "name": "Ring of the Ram",
+    "rarity": "rare",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-the-ram"
+  },
+  {
+    "name": "Ring of the Winter",
+    "rarity": "artifact",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Adventures (Tomb of Annihilation)",
+    "index": "ring-of-the-winter"
+  },
+  {
+    "name": "Ring of Three Wishes",
+    "rarity": "legendary",
+    "type": "Ring",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-three-wishes"
+  },
+  {
+    "name": "Ring of Warmth",
+    "rarity": "uncommon",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-warmth"
+  },
+  {
+    "name": "Ring of Water Walking",
+    "rarity": "uncommon",
+    "type": "Ring",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-water-walking"
+  },
+  {
+    "name": "Ring of X-ray Vision",
+    "rarity": "rare",
+    "type": "Ring",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "ring-of-x-ray-vision"
+  },
+  {
+    "name": "Robe of Eyes",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "robe-of-eyes"
+  },
+  {
+    "name": "Robe of Scintillating Colors",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "robe-of-scintillating-colors"
+  },
+  {
+    "name": "Robe of Stars",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "robe-of-stars"
+  },
+  {
+    "name": "Robe of the Archmagi",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "robe-of-the-archmagi"
+  },
+  {
+    "name": "Robe of Useful Items",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "robe-of-useful-items"
+  },
+  {
+    "name": "Rod of Absorption",
+    "rarity": "very rare",
+    "type": "Rod",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "rod-of-absorption"
+  },
+  {
+    "name": "Rod of Alertness",
+    "rarity": "very rare",
+    "type": "Rod",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "rod-of-alertness"
+  },
+  {
+    "name": "Rod of Lordly Might",
+    "rarity": "legendary",
+    "type": "Rod",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "rod-of-lordly-might"
+  },
+  {
+    "name": "Rod of Resurrection",
+    "rarity": "legendary",
+    "type": "Rod",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "rod-of-resurrection"
+  },
+  {
+    "name": "Rod of Rulership",
+    "rarity": "rare",
+    "type": "Rod",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "rod-of-rulership"
+  },
+  {
+    "name": "Rod of Security",
+    "rarity": "very rare",
+    "type": "Rod",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "rod-of-security"
+  },
+  {
+    "name": "Rod of the Pact Keeper (+1)",
+    "rarity": "uncommon",
+    "type": "Rod",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "rod-of-the-pact-keeper"
+  },
+  {
+    "name": "Rod of the Pact Keeper (+2)",
+    "rarity": "rare",
+    "type": "Rod",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "rod-of-the-pact-keeper"
+  },
+  {
+    "name": "Rod of the Pact Keeper (+3)",
+    "rarity": "very rare",
+    "type": "Rod",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "rod-of-the-pact-keeper"
+  },
+  {
+    "name": "Rope of Climbing",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "rope-of-climbing"
+  },
+  {
+    "name": "Rope of Entanglement",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "rope-of-entanglement"
+  },
+  {
+    "name": "Rope of Mending",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "rope-of-mending"
+  },
+  {
+    "name": "Ruby of the War Mage",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Xanathar's Guide to Everything",
+    "index": "ruby-of-the-war-mage"
+  },
+  {
+    "name": "Ruby Weave Gem",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Fizban's Treasury of Dragons",
+    "index": "ruby-weave-gem"
+  },
+  {
+    "name": "Saddle of the Cavalier",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide",
+    "index": "saddle-of-the-cavalier"
+  },
+  {
+    "name": "Sapphire Buckler",
+    "rarity": "very rare",
+    "type": "Armor ",
+    "requiresAttunement": true,
+    "source": "Fizban's Treasury of Dragons",
+    "index": "sapphire-buckler"
+  },
+  {
+    "name": "Scarab of Protection",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "scarab-of-protection"
+  },
+  {
+    "name": "Scimitar of Speed",
+    "rarity": "very rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "scimitar-of-speed"
+  },
+  {
+    "name": "Scroll of Protection",
+    "rarity": "rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (BR)",
+    "index": "scroll-of-protection"
+  },
+  {
+    "name": "Sending Stones",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide",
+    "index": "sending-stones"
+  },
+  {
+    "name": "Sentinel Shield",
+    "rarity": "uncommon",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide",
+    "index": "sentinel-shield"
+  },
+  {
+    "name": "Shadowfell Brand Tattoo",
+    "rarity": "rare",
+    "type": "Wondrous item ",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "shadowfell-brand-tattoo"
+  },
+  {
+    "name": "Shadowfell Shard",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "shadowfell-shard"
+  },
+  {
+    "name": "Shield of Expression",
+    "rarity": "common",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "shield-of-expression"
+  },
+  {
+    "name": "Shield of Missile Attraction",
+    "rarity": "rare",
+    "type": "Armor ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "shield-of-missile-attraction"
+  },
+  {
+    "name": "Shield, (+1)",
+    "rarity": "uncommon",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "shield,"
+  },
+  {
+    "name": "Shield, (+2)",
+    "rarity": "rare",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "shield,"
+  },
+  {
+    "name": "Shield, (+3)",
+    "rarity": "very rare",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "shield,"
+  },
+  {
+    "name": "Slippers of Spider Climbing",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "slippers-of-spider-climbing"
+  },
+  {
+    "name": "Smoldering Armor",
+    "rarity": "common",
+    "type": "Armor ",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "smoldering-armor"
+  },
+  {
+    "name": "Sovereign Glue",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "sovereign-glue"
+  },
+  {
+    "name": "Spell Scroll (Cantrip)",
+    "rarity": "common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll (1st Level)",
+    "rarity": "common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll (2nd Level)",
+    "rarity": "uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll (3rd Level)",
+    "rarity": "uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll (4th Level)",
+    "rarity": "rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll (5th Level)",
+    "rarity": "rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll (6th Level)",
+    "rarity": "very rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll (7th Level)",
+    "rarity": "very rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll (8th Level)",
+    "rarity": "very rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll (9th Level)",
+    "rarity": "legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spellguard Shield",
+    "rarity": "very rare",
+    "type": "Armor ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "spellguard-shield"
+  },
+  {
+    "name": "Spellwrought Tattoo",
+    "rarity": "common",
+    "type": "Wondrous item ",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spellwrought-tattoo"
+  },
+  {
+    "name": "Spellwrought Tattoo",
+    "rarity": "uncommon",
+    "type": "Wondrous item ",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spellwrought-tattoo"
+  },
+  {
+    "name": "Spellwrought Tattoo",
+    "rarity": "rare",
+    "type": "Wondrous item ",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spellwrought-tattoo"
+  },
+  {
+    "name": "Spellwrought Tattoo",
+    "rarity": "very rare",
+    "type": "Wondrous item ",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spellwrought-tattoo"
+  },
+  {
+    "name": "Spellwrought Tattoo",
+    "rarity": "legendary",
+    "type": "Wondrous item ",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spellwrought-tattoo"
+  },
+  {
+    "name": "Sphere of Annihilation",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "sphere-of-annihilation"
+  },
+  {
+    "name": "Staff of Adornment",
+    "rarity": "common",
+    "type": "Staff",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "staff-of-adornment"
+  },
+  {
+    "name": "Staff of Birdcalls",
+    "rarity": "common",
+    "type": "Staff",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "staff-of-birdcalls"
+  },
+  {
+    "name": "Staff of Charming",
+    "rarity": "rare",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "staff-of-charming"
+  },
+  {
+    "name": "Staff of Fire",
+    "rarity": "very rare",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "staff-of-fire"
+  },
+  {
+    "name": "Staff of Flowers",
+    "rarity": "common",
+    "type": "Staff",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "staff-of-flowers"
+  },
+  {
+    "name": "Staff of Frost",
+    "rarity": "very rare",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "staff-of-frost"
+  },
+  {
+    "name": "Staff of Healing",
+    "rarity": "rare",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "staff-of-healing"
+  },
+  {
+    "name": "Staff of Power",
+    "rarity": "very rare",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "staff-of-power"
+  },
+  {
+    "name": "Staff of Striking",
+    "rarity": "very rare",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "staff-of-striking"
+  },
+  {
+    "name": "Staff of Swarming Insects",
+    "rarity": "rare",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "staff-of-swarming-insects"
+  },
+  {
+    "name": "Staff of the Adder",
+    "rarity": "uncommon",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "staff-of-the-adder"
+  },
+  {
+    "name": "Staff of the Forgotten One",
+    "rarity": "artifact",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Adventures (Tomb of Annihilation)",
+    "index": "staff-of-the-forgotten-one"
+  },
+  {
+    "name": "Staff of the Magi",
+    "rarity": "legendary",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "staff-of-the-magi"
+  },
+  {
+    "name": "Staff of the Python",
+    "rarity": "uncommon",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "staff-of-the-python"
+  },
+  {
+    "name": "Staff of the Woodlands",
+    "rarity": "rare",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "staff-of-the-woodlands"
+  },
+  {
+    "name": "Staff of Thunder and Lightning",
+    "rarity": "very rare",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "staff-of-thunder-and-lightning"
+  },
+  {
+    "name": "Staff of Withering",
+    "rarity": "rare",
+    "type": "Staff",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "staff-of-withering"
+  },
+  {
+    "name": "Stone of Controlling Earth Elementals",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "stone-of-controlling-earth-elementals"
+  },
+  {
+    "name": "Stone of Golorr",
+    "rarity": "artifact",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Adventures (Dragon Heist)",
+    "index": "stone-of-golorr"
+  },
+  {
+    "name": "Stone of Good Luck (Luckstone)",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "stone-of-good-luck"
+  },
+  {
+    "name": "Sun Blade",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "sun-blade"
+  },
+  {
+    "name": "Sword of Answering",
+    "rarity": "legendary",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "sword-of-answering"
+  },
+  {
+    "name": "Sword of Kas",
+    "rarity": "artifact",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "sword-of-kas"
+  },
+  {
+    "name": "Sword of Life Stealing",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "sword-of-life-stealing"
+  },
+  {
+    "name": "Sword of Sharpness",
+    "rarity": "very rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "sword-of-sharpness"
+  },
+  {
+    "name": "Sword of Vengeance",
+    "rarity": "uncommon",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "sword-of-vengeance"
+  },
+  {
+    "name": "Sword of Wounding",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "sword-of-wounding"
+  },
+  {
+    "name": "Sword of Zariel",
+    "rarity": "artifact",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Adventures (Descent into Avernus)",
+    "index": "sword-of-zariel"
+  },
+  {
+    "name": "Talisman of Pure Good",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "talisman-of-pure-good"
+  },
+  {
+    "name": "Talisman of the Sphere",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "talisman-of-the-sphere"
+  },
+  {
+    "name": "Talisman of Ultimate Evil",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "talisman-of-ultimate-evil"
+  },
+  {
+    "name": "Talking Doll",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Xanathar's Guide to Everything",
+    "index": "talking-doll"
+  },
+  {
+    "name": "Tankard of Sobriety",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "tankard-of-sobriety"
+  },
+  {
+    "name": "Teeth of Dahlver-Nar",
+    "rarity": "artifact",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "teeth-of-dahlver-nar"
+  },
+  {
+    "name": "Tentacle Rod",
+    "rarity": "rare",
+    "type": "Rod",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (BR)",
+    "index": "tentacle-rod"
+  },
+  {
+    "name": "Throne",
+    "rarity": "artifact",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Adventures (Storm King's Thunder)",
+    "index": "throne"
+  },
+  {
+    "name": "Tome of Clear Thought",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "tome-of-clear-thought"
+  },
+  {
+    "name": "Tome of Leadership and Influence",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "tome-of-leadership-and-influence"
+  },
+  {
+    "name": "Tome of the Stilled Tongue",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "tome-of-the-stilled-tongue"
+  },
+  {
+    "name": "Tome of Understanding",
+    "rarity": "very rare",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "tome-of-understanding"
+  },
+  {
+    "name": "Topaz Annihilator",
+    "rarity": "legendary",
+    "type": "Ranged weapon",
+    "requiresAttunement": false,
+    "source": "Fizban's Treasury of Dragons",
+    "index": "topaz-annihilator"
+  },
+  {
+    "name": "Trident of Fish Command",
+    "rarity": "uncommon",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "trident-of-fish-command"
+  },
+  {
+    "name": "Unbreakable Arrow",
+    "rarity": "common",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "unbreakable-arrow"
+  },
+  {
+    "name": "Universal Solvent",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "universal-solvent"
+  },
+  {
+    "name": "Veteran's Cane",
+    "rarity": "common",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "veteran's-cane"
+  },
+  {
+    "name": "Vicious Weapon",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "vicious-weapon"
+  },
+  {
+    "name": "Vorpal Sword",
+    "rarity": "legendary",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "vorpal-sword"
+  },
+  {
+    "name": "Walloping Ammunition",
+    "rarity": "common",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "walloping-ammunition"
+  },
+  {
+    "name": "Wand of Binding",
+    "rarity": "rare",
+    "type": "Wand",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-binding"
+  },
+  {
+    "name": "Wand of Conducting",
+    "rarity": "common",
+    "type": "Wand",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "wand-of-conducting"
+  },
+  {
+    "name": "Wand of Enemy Detection",
+    "rarity": "rare",
+    "type": "Wand",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-enemy-detection"
+  },
+  {
+    "name": "Wand of Fear",
+    "rarity": "rare",
+    "type": "Wand",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-fear"
+  },
+  {
+    "name": "Wand of Fireballs",
+    "rarity": "rare",
+    "type": "Wand",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-fireballs"
+  },
+  {
+    "name": "Wand of Lightning Bolts",
+    "rarity": "rare",
+    "type": "Wand",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-lightning-bolts"
+  },
+  {
+    "name": "Wand of Magic Detection",
+    "rarity": "uncommon",
+    "type": "Wand",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-magic-detection"
+  },
+  {
+    "name": "Wand of Magic Missiles",
+    "rarity": "uncommon",
+    "type": "Wand",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-magic-missiles"
+  },
+  {
+    "name": "Wand of Orcus",
+    "rarity": "artifact",
+    "type": "Wand",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "wand-of-orcus"
+  },
+  {
+    "name": "Wand of Paralysis",
+    "rarity": "rare",
+    "type": "Wand",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-paralysis"
+  },
+  {
+    "name": "Wand of Polymorph",
+    "rarity": "very rare",
+    "type": "Wand",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-polymorph"
+  },
+  {
+    "name": "Wand of Pyrotechnics",
+    "rarity": "common",
+    "type": "Wand",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "wand-of-pyrotechnics"
+  },
+  {
+    "name": "Wand of Scowls",
+    "rarity": "common",
+    "type": "Wand",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "wand-of-scowls"
+  },
+  {
+    "name": "Wand of Secrets",
+    "rarity": "uncommon",
+    "type": "Wand",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-secrets"
+  },
+  {
+    "name": "Wand of Smiles",
+    "rarity": "common",
+    "type": "Wand",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "wand-of-smiles"
+  },
+  {
+    "name": "Wand of the War Mage (+1)",
+    "rarity": "uncommon",
+    "type": "Wand",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-the-war-mage"
+  },
+  {
+    "name": "Wand of the War Mage (+2)",
+    "rarity": "rare",
+    "type": "Wand",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-the-war-mage"
+  },
+  {
+    "name": "Wand of the War Mage (+3)",
+    "rarity": "very rare",
+    "type": "Wand",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-the-war-mage"
+  },
+  {
+    "name": "Wand of Web",
+    "rarity": "uncommon",
+    "type": "Wand",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-web"
+  },
+  {
+    "name": "Wand of Wonder",
+    "rarity": "rare",
+    "type": "Wand",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wand-of-wonder"
+  },
+  {
+    "name": "Wave",
+    "rarity": "legendary",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "wave"
+  },
+  {
+    "name": "Weapon (+1)",
+    "rarity": "uncommon",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "weapon"
+  },
+  {
+    "name": "Weapon (+2)",
+    "rarity": "rare",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "weapon"
+  },
+  {
+    "name": "Weapon (+3)",
+    "rarity": "very rare",
+    "type": "Weapon ",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "weapon"
+  },
+  {
+    "name": "Weapon of Warning",
+    "rarity": "uncommon",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "weapon-of-warning"
+  },
+  {
+    "name": "Well of Many Worlds",
+    "rarity": "legendary",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "well-of-many-worlds"
+  },
+  {
+    "name": "Whelm",
+    "rarity": "legendary",
+    "type": "Weapon ",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide",
+    "index": "whelm"
+  },
+  {
+    "name": "Wind Fan",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": false,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wind-fan"
+  },
+  {
+    "name": "Winged Boots",
+    "rarity": "uncommon",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "winged-boots"
+  },
+  {
+    "name": "Wings of Flying",
+    "rarity": "rare",
+    "type": "Wondrous item",
+    "requiresAttunement": true,
+    "source": "Dungeon Master's Guide (SRD)",
+    "index": "wings-of-flying"
+  }
+]
