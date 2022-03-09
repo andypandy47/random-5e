@@ -1,15 +1,19 @@
 import { Flex, Text } from '@chakra-ui/react';
-import { IItem } from 'constants/types';
+import { IDisplayItem } from 'constants/types';
 import * as React from 'react';
 
 interface IMagicItemProps {
-  item: IItem;
+  displayItem: IDisplayItem;
 }
 
-const MagicItem: React.FC<IMagicItemProps> = ({ item }) => {
+const MagicItem: React.FC<IMagicItemProps> = ({ displayItem }) => {
+  const { item, count } = displayItem;
+
   return (
     <Flex>
-      <Text>{item.name}</Text>
+      <Text>
+        {item.name} x{count}
+      </Text>
     </Flex>
   );
 };

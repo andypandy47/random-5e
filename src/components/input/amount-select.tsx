@@ -9,29 +9,17 @@ import {
   Select,
   Text
 } from '@chakra-ui/react';
-import { Dice, DieValueAmounts } from 'constants/types';
+import { Dice } from 'constants/types';
 import * as React from 'react';
 
 interface IAmountSelectProps {
-  onChange(newAmount: number): void;
+  onDiceAmountChange(diceAmount: number): void;
+  onDiceTypeChange(diceType: Dice): void;
+  diceType: Dice;
+  diceAmount: number;
 }
 
-const AmountSelect: React.FC<IAmountSelectProps> = ({ onChange }) => {
-  const [dieType, setDieType] = React.useState<Dice>('d4');
-  const [dieAmount, setDieAmount] = React.useState(1);
-
-  const handleChange = (type: Dice, amount: number) => {
-    setDieAmount(amount);
-    setDieType(type);
-
-    const dieTypeAmount = DieValueAmounts[type];
-    const maximum = amount * dieTypeAmount;
-
-    const randomValue = Math.floor(Math.random() * (maximum - amount + 1)) + amount;
-
-    onChange(randomValue);
-  };
-
+const AmountSelect: React.FC<IAmountSelectProps> = ({ onDiceAmountChange, onDiceTypeChange, diceType, diceAmount }) => {
   return (
     <FormControl display={'flex'} flexDir={'row'} alignItems={'center'}>
       <FormLabel mb={'none'} minWidth={'100px'}>
@@ -39,8 +27,8 @@ const AmountSelect: React.FC<IAmountSelectProps> = ({ onChange }) => {
       </FormLabel>
       <NumberInput
         width={'75px'}
-        value={dieAmount}
-        onChange={(valueAsString, valueAsNumber) => handleChange(dieType, valueAsNumber)}
+        value={diceAmount}
+        onChange={(valueAsString, valueAsNumber) => onDiceAmountChange(valueAsNumber)}
         mr={2}
         size={'sm'}
         min={1}
@@ -53,8 +41,8 @@ const AmountSelect: React.FC<IAmountSelectProps> = ({ onChange }) => {
       </NumberInput>
       <Text mr={2}>x</Text>
       <Select
-        value={dieType}
-        onChange={(event) => handleChange(event.target.value as Dice, dieAmount)}
+        value={diceType}
+        onChange={(e) => onDiceTypeChange(e.target.value as Dice)}
         name="die-type-dropdown"
         width={'100px'}
         size={'sm'}

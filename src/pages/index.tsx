@@ -2,7 +2,7 @@ import { Divider, Flex, Heading, Stack } from '@chakra-ui/react';
 import AmountSelect from 'components/input/amount-select';
 import GenericTypeSelect from 'components/input/checkbox-type-select';
 import ResultsDisplay from 'components/results-display';
-import { IItem, ItemValues, RarityValues, SourceValues } from 'constants/types';
+import { Dice, IItem, ItemValues, RarityValues, SourceValues } from 'constants/types';
 import { GetStaticProps, NextPage } from 'next';
 import Head from 'next/head';
 import React from 'react';
@@ -12,8 +12,12 @@ interface IHomeProps {
   items: IItem[];
 }
 
+const defaultDiceAmount = 1;
+const defaultDiceType: Dice = 'd4';
+
 const Home: NextPage<IHomeProps> = ({ items }) => {
-  const [count, setCount] = React.useState(1);
+  const [diceAmount, setDiceAmount] = React.useState(defaultDiceAmount);
+  const [diceType, setDiceType] = React.useState(defaultDiceType);
   const [itemTypes, setItemTypes] = React.useState(ItemValues);
   const [rarities, setRarities] = React.useState(RarityValues);
   const [sources, setSources] = React.useState(SourceValues);
@@ -52,7 +56,12 @@ const Home: NextPage<IHomeProps> = ({ items }) => {
           </Flex>
           <Divider mb={4} />
           <Stack width={'full'} p={2} spacing={8}>
-            <AmountSelect onChange={setCount} />
+            <AmountSelect
+              onDiceAmountChange={setDiceAmount}
+              onDiceTypeChange={setDiceType}
+              diceAmount={diceAmount}
+              diceType={diceType}
+            />
 
             <GenericTypeSelect
               selectableItems={ItemValues}
@@ -78,7 +87,8 @@ const Home: NextPage<IHomeProps> = ({ items }) => {
 
           <ResultsDisplay
             allItems={items}
-            count={count}
+            diceType={diceType}
+            diceAmount={diceAmount}
             selectedItemTypes={itemTypes}
             selectedRarities={rarities}
             selectedSources={sources}

@@ -1,6 +1,6 @@
-export const DieValues = ['d4', 'd6', 'd8', 'd10', 'd20'];
-export type Dice = typeof DieValues[number];
-export enum DieValueAmounts {
+export const DiceValues = ['d4', 'd6', 'd8', 'd10', 'd20'];
+export type Dice = typeof DiceValues[number];
+export enum DiceValueAmounts {
   d4 = 4,
   d6 = 6,
   d8 = 8,
@@ -16,7 +16,7 @@ export type Rarities = typeof RarityValues[number];
 
 export const SourceValues = [
   "Dungeon Master's Guide (SRD)",
-  "Xanathar's Guid to Everything",
+  "Xanathar's Guide to Everything",
   "Tasha's Cauldron of Everything",
   "Fizban's Treasury of Dragons",
   'Adventures'
@@ -30,4 +30,9 @@ export interface IItem {
   type: string;
   requiresAttunement: boolean;
   source: string;
+}
+
+export interface IDisplayItem {
+  count: number;
+  item: IItem;
 }
