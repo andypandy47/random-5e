@@ -7,6 +7,10 @@ body,
     Helvetica Neue, sans-serif;
   height: 100%;
   width: 100%;
+  min-height: 100vh;
+  min-width: 100vw;
+  overflow-x: hidden;
+  font-size: 16px;
 }
 
 a {
@@ -16,4 +20,36 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+@media screen and (max-width: 320px) {
+  html,
+  body,
+  #__next {
+    font-size: 8px;
+  }
+}
+
+@media screen and (min-width: 320px) {
+  html,
+  body,
+  #__next {
+    font-size: 10px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  html,
+  body,
+  #__next {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  html,
+  body,
+  #__next {
+    font-size: 16px;
+  }
 }

@@ -11,15 +11,25 @@ export enum DiceValueAmounts {
 export const ItemValues = ['Armor', 'Potion', 'Ring', 'Rod', 'Scroll', 'Staff', 'Wand', 'Weapon', 'Wondrous Item'];
 export type Items = typeof ItemValues[number];
 
-export const RarityValues = ['common', 'uncommon', 'rare', 'very rare', 'legendary', 'artifact'];
+export const RarityValues = ['Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary', 'Artifact'];
 export type Rarities = typeof RarityValues[number];
+
+export const RarityColours = {
+  Common: '#b9bec4',
+  Uncommon: '#1FC219',
+  Rare: '#4990E2',
+  'Very Rare': '#9810E0',
+  Legendary: '#FEA227',
+  Artifact: '#BE8972'
+};
 
 export const SourceValues = [
   "Dungeon Master's Guide (SRD)",
   "Xanathar's Guide to Everything",
   "Tasha's Cauldron of Everything",
   "Fizban's Treasury of Dragons",
-  'Adventures'
+  'Adventures',
+  "Player's Handbook"
 ];
 export type Sources = typeof SourceValues[number];
 

@@ -1,3 +1,4 @@
+import * as React from 'react';
 import {
   FormControl,
   FormLabel,
@@ -10,7 +11,6 @@ import {
   Text
 } from '@chakra-ui/react';
 import { Dice } from 'constants/types';
-import * as React from 'react';
 
 interface IAmountSelectProps {
   onDiceAmountChange(diceAmount: number): void;

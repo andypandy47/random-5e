@@ -1,11 +1,11 @@
+import * as React from 'react';
 import { Divider, Flex, Heading, Stack } from '@chakra-ui/react';
 import AmountSelect from 'components/input/amount-select';
 import GenericTypeSelect from 'components/input/checkbox-type-select';
-import ResultsDisplay from 'components/results-display';
+import ResultsTable from 'components/results-table';
 import { Dice, IItem, ItemValues, RarityValues, SourceValues } from 'constants/types';
 import { GetStaticProps, NextPage } from 'next';
 import Head from 'next/head';
-import React from 'react';
 import readItemsJson from 'utilities/read-item-json';
 
 interface IHomeProps {
@@ -48,7 +48,14 @@ const Home: NextPage<IHomeProps> = ({ items }) => {
             Random 5e
           </Heading>
         </Flex>
-        <Flex as={'main'} flexDir={'column'} alignItems={'center'} p={4} flex={1} width={'5xl'}>
+        <Flex
+          as={'main'}
+          flexDir={'column'}
+          alignItems={'center'}
+          p={4}
+          flex={1}
+          width={['95%', '92%', '90%', '88%', '85%', '60%']}
+        >
           <Flex width={'full'} justifyContent={'flex-start'} mb={4}>
             <Heading fontSize={'3xl'} as={'h2'}>
               Magic Items
@@ -85,7 +92,7 @@ const Home: NextPage<IHomeProps> = ({ items }) => {
             />
           </Stack>
 
-          <ResultsDisplay
+          <ResultsTable
             allItems={items}
             diceType={diceType}
             diceAmount={diceAmount}

@@ -1,6 +1,6 @@
+import * as React from 'react';
 import { Checkbox, CheckboxGroup, FormControl, FormLabel, Wrap, WrapItem } from '@chakra-ui/react';
 import { ItemValues } from 'constants/types';
-import * as React from 'react';
 
 interface ITypeSelectProps {
   selectableItems: string[];

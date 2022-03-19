@@ -1,0 +1,3826 @@
+[
+  {
+    "name": "Spell Scroll of Modify Memory (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Storm of Vengeance (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Death Ward (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Teleport (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Contingency (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Heat Metal (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Comprehend Languages (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Flesh to Stone (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Guiding Bolt (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Charm Person (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Branding Smite (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Cause Fear (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Thunderwave (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Enlarge/Reduce (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Teleportation Circle (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Dispel Evil and Good (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Ice Storm (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Compelled Duel (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Absorb Elements (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Intellect Fortress (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Tree Stride (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Antilife Shell (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Counterspell (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Nondetection (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mislead (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Fire Shield (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Pass without Trace (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Animate Objects (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Catnap (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of True Strike (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Fog Cloud (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Incendiary Cloud (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Wall of Water (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Storm Sphere (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Create Food and Water (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Create Homunculus (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Crusader's Mantle (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Searing Smite (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Prayer of Healing (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Primordial Ward (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Leomund's Tiny Hut (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Create or Destroy Water (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Toll the Dead (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Sacred Flame (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Augury (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Pyrotechnics (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Gust of Wind (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Major Image (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Insect Plague (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Bigby's Hand (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Zephyr Strike (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Foresight (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Temple of the Gods (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Tasha's Mind Whip (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Confusion (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Water Breathing (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Feign Death (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Thaumaturgy (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Erupting Earth (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Hypnotic Pattern (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Summon Fiend (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Hex (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mind Blank (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Blindness/Deafness (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Sword Burst (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Arcane Eye (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Spiritual Weapon (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Create Undead (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Goodberry (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Meteor Swarm (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Lightning Lure (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Hallow (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Fireball (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Swift Quiver (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Heroes' Feast (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Aura of Vitality (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Green-Flame Blade (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Chromatic Orb (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Legend Lore (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Longstrider (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Summon Beast (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Awaken (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mighty Fortress (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Summon Shadowspawn (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Bane (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Protection from Energy (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Minor Illusion (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Otto's Irresistible Dance (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Passwall (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Find Steed (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Conjure Barrage (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Holy Weapon (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Blade of Disaster (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mass Cure Wounds (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Entangle (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Locate Object (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Wall of Thorns (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Gate (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Reverse Gravity (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Beacon of Hope (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Abi-Dalzim's Horrid Wilting (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Wall of Sand (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Control Flames (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Summon Elemental (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Conjure Volley (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Poison Spray (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Revivify (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Flame Blade (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Warding Bond (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Fabricate (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Conjure Fey (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Dream of the Blue Veil (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Flaming Sphere (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mass Healing Word (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Summon Greater Demon (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Sending (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Aura of Life (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Steel Wind Strike (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Greater Invisibility (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Stinking Cloud (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Otiluke's Freezing Sphere (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Clone (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Dominate Person (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Blinding Smite (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of See Invisibility (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Contact Other Plane (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Summon Undead (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Giant Insect (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Catapult (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Wall of Fire (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Wall of Stone (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Contagion (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Prismatic Wall (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Feeblemind (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Silence (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Control Water (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Transport via Plants (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Meld into Stone (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Command (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Time Stop (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Divine Favor (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Wrath of Nature (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Misty Step (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Find Traps (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Shocking Grasp (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Blade Ward (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Clairvoyance (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Banishing Smite (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Summon Aberration (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Animate Dead (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Arcane Weapon (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mirror Image (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Inflict Wounds (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Animal Messenger (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Elemental Bane (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Silent Image (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Danse Macabre (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Create Bonfire (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Reincarnate (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Frostbite (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Ray of Frost (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Gaseous Form (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Investiture of Wind (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Cloudkill (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Enervation (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Witch Bolt (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mordenkainen's Faithful Hound (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Animal Shapes (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Magic Weapon (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Finger of Death (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Magic Jar (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Dust Devil (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mordenkainen's Private Sanctum (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Greater Restoration (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Infernal Calling (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Polymorph (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Purify Food and Drink (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Dominate Monster (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Prestidigitation (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Maze (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Locate Animals or Plants (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Infestation (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Maddening Darkness (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mass Heal (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Disguise Self (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Phantom Steed (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Phantasmal Force (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Cure Wounds (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Wind Wall (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Earthbind (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Enthrall (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Control Weather (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Imprisonment (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Word of Radiance (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Investiture of Flame (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Heal (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Forbiddance (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mass Polymorph (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Sunburst (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Beast Bond (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Faerie Fire (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Investiture of Stone (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mass Suggestion (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Aganazzar's Scorcher (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of True Resurrection (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Illusory Dragon (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Flame Arrows (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Darkvision (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Melf's Minute Meteors (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mind Spike (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Magic Circle (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Warding Wind (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Geas (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mental Prison (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Speak with Dead (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Grasping Vine (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Investiture of Ice (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Tenser's Floating Disk (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Maelstrom (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Tasha's Hideous Laughter (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Planar Ally (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Dissonant Whispers (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Alarm (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Crown of Stars (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Globe of Invulnerability (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mordenkainen's Sword (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Detect Thoughts (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Booming Blade (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Healing Word (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Blade Barrier (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Invulnerability (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Planar Binding (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Grease (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mordenkainen's Magnificent Mansion (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Ray of Sickness (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Continual Flame (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Leomund's Secret Chest (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Phantasmal Killer (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Shield (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Aid (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Eldritch Blast (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Summon Lesser Demons (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Wrathful Smite (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Spirit Shroud (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Dimension Door (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Vitriolic Sphere (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Gentle Repose (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Soul Cage (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Divine Word (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Chain Lightning (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Locate Creature (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Scatter (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Tasha's Otherworldly Guise (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Summon Celestial (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Regenerate (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Sunbeam (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Magic Missile (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Spider Climb (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Plant Growth (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Druid Grove (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Beast Sense (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Compulsion (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mage Hand (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Lesser Restoration (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Hail of Thorns (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of True Seeing (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Lightning Bolt (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Resistance (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Hallucinatory Terrain (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Scrying (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Ensnaring Strike (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Blight (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Fire Bolt (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Protection from Evil and Good (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Wall of Light (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Telepathy (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Watery Sphere (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Detect Poison and Disease (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Maximilian's Earthen Grasp (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Fly (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Blur (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Hold Monster (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Levitate (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Slow (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Shadow Blade (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Hellish Rebuke (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Bless (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Healing Spirit (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Destructive Wave (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Skill Empowerment (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Thorn Whip (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Detect Evil and Good (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Psychic Scream (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Synaptic Static (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Weird (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Holy Aura (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Life Transference (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Tidal Wave (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Light (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Guardian of Nature (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Rary's Telepathic Bond (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Crown of Madness (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Ice Knife (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Wind Walk (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Detect Magic (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Seeming (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Delayed Blast Fireball (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Wish (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Shatter (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Bones of the Earth (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Magic Stone (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Transmute Rock (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Spike Growth (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Hunter's Mark (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Moonbeam (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Identify (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Earthquake (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Knock (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Disintegrate (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Speak with Plants (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Darkness (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Earth Tremor (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Fear (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Tiny Servant (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Resurrection (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Conjure Celestial (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Conjure Woodland Beings (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Alter Self (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Primal Savagery (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Nystul's Magic Aura (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Control Winds (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Protection from Poison (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Heroism (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Chaos Bolt (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Forcecage (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Remove Curse (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Haste (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Summon Fey (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Hunger of Hadar (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Vampiric Touch (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Project Image (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Dominate Beast (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Far Step (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Sequester (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Conjure Elemental (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Dream (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Commune (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of True Polymorph (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Conjure Minor Elementals (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Suggestion (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mage Armor (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Snilloc's Snowball Swarm (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Etherealness (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Find Familiar (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Ceremony (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Power Word Pain (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Circle of Death (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Daylight (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Power Word Kill (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Shield of Faith (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Tasha's Caustic Brew (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Creation (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Drawmij's Instant Summons (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Jump (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Immolation (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of False Life (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Druidcraft (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Shapechange (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Move Earth (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Thunderclap (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Shadow of Moil (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Expeditious Retreat (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Telekinesis (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Conjure Animals (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Calm Emotions (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Circle of Power (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Glibness (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Shape Water (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Whirlwind (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Chill Touch (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Prismatic Spray (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Melf's Acid Arrow (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Wall of Ice (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Dragon's Breath (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Enhance Ability (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Speak with Animals (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Sleep (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Scorching Ray (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Glyph of Warding (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Charm Monster (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Dancing Lights (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Sanctuary (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mirage Arcane (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Arcane Lock (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Water Walk (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Find Greater Steed (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Cloud of Daggers (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Guardian of Faith (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Sickening Radiance (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Tsunami (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Raise Dead (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Ray of Enfeeblement (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Cone of Cold (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Color Spray (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Enemies Abound (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mold Earth (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Invisibility (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Simulacrum (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Symbol (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Word of Recall (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Plane Shift (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Dawn (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Harm (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Acid Splash (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Snare (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Friends (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mending (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Zone of Truth (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Eyebite (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Stoneskin (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Astral Projection (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Skywrite (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Web (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Guards and Wards (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Banishment (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Hold Person (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Arms of Hadar (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Negative Energy Flood (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Tenser's Transformation (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Produce Flame (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Aura of Purity (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Staggering Smite (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Antimagic Field (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Vicious Mockery (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Antipathy/Sympathy (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Elemental Weapon (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Armor of Agathys (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Fire Storm (7th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Magic Mouth (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Stone Shape (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Freedom of Movement (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Unseen Servant (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Divination (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Spare the Dying (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Rope Trick (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Arcane Gate (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Dispel Magic (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Wall of Force (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Gust (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Cordon of Arrows (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Illusory Script (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Shillelagh (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Guidance (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Animal Friendship (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Programmed Illusion (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Find the Path (6th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Sleet Storm (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Power Word Stun (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Tongues (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Mind Sliver (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Thunder Step (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Xanathar's Guide to Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Summon Construct (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Tasha's Cauldron of Everything",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Thunderous Smite (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Burning Hands (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Bestow Curse (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Lightning Arrow (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Power Word Heal (9th)",
+    "rarity": "Legendary",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Blink (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Otiluke's Resilient Sphere (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Flame Strike (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Demiplane (8th)",
+    "rarity": "Very Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Feather Fall (1st)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Message (Cantrip)",
+    "rarity": "Common",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Evard's Black Tentacles (4th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Commune with Nature (5th)",
+    "rarity": "Rare",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Spirit Guardians (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Call Lightning (3rd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  },
+  {
+    "name": "Spell Scroll of Barkskin (2nd)",
+    "rarity": "Uncommon",
+    "type": "Scroll",
+    "requiresAttunement": false,
+    "source": "Player's Handbook",
+    "index": "spell-scroll"
+  }
+]

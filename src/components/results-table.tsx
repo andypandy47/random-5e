@@ -1,9 +1,9 @@
-import { RepeatIcon } from '@chakra-ui/icons';
-import { Button, Flex, Stack } from '@chakra-ui/react';
-import { Dice, DiceValueAmounts, IDisplayItem, IItem, Items, Rarities, Sources } from 'constants/types';
 import * as React from 'react';
+import { RepeatIcon } from '@chakra-ui/icons';
+import { Button, Flex, ResponsiveValue, Text } from '@chakra-ui/react';
+import { Dice, DiceValueAmounts, IDisplayItem, IItem, Items, Rarities, Sources } from 'constants/types';
 import generateRandomValue from 'utilities/random-value';
-import MagicItem from './magic-tem';
+import MagicItemRow from './magic-tem-row';
 
 interface IResultsDisplay {
   allItems: IItem[];
@@ -14,7 +14,44 @@ interface IResultsDisplay {
   selectedSources: Sources[];
 }
 
-const ResultsDisplay: React.FC<IResultsDisplay> = ({
+export interface IColumn {
+  title: string;
+  width?: string[];
+  flex?: number;
+  alignment?: string[];
+}
+
+const tableHeight = ['200px', '300px', '300px', '350px', '350px', '700px'];
+const columns: IColumn[] = [
+  {
+    title: 'Name',
+    width: ['200px', '200px', '200px', '150px', '300px', '370px']
+  },
+  {
+    title: 'Rarity',
+    width: ['160px', '160px', '160px', '100px', '120px', '160px']
+  },
+  {
+    title: 'Type',
+    width: ['160px', '160px', '160px', '70px', '100px', '160px']
+  },
+  {
+    title: 'Attunement?',
+    width: ['200px', '200px', '200px', '100px', '140px', '200px'],
+    alignment: ['center']
+  },
+  {
+    title: 'Source',
+    flex: 1
+  },
+  {
+    title: 'Count',
+    width: ['80px'],
+    alignment: ['right']
+  }
+];
+
+const ResultsTable: React.FC<IResultsDisplay> = ({
   allItems,
   diceType,
   diceAmount,
@@ -39,7 +76,7 @@ const ResultsDisplay: React.FC<IResultsDisplay> = ({
     });
 
     if (filteredItems.length < 1) {
-      console.error('No items available');
+      setDisplayedItems([]);
       setIsLoading(() => false);
       return;
     }
@@ -79,8 +116,8 @@ const ResultsDisplay: React.FC<IResultsDisplay> = ({
   };
 
   return (
-    <Flex flex={1} width={'full'} justifyContent={'center'} flexDir={'column'}>
-      <Flex flexBasis={'50px'} alignItems={'center'}>
+    <Flex flex={1} width={'full'} justifyContent={'flex-start'} flexDir={'column'}>
+      <Flex flexBasis={'100px'} alignItems={'center'}>
         <Button
           colorScheme={'whiteAlpha'}
           variant={'solid'}
@@ -92,13 +129,32 @@ const ResultsDisplay: React.FC<IResultsDisplay> = ({
         </Button>
       </Flex>
 
-      <Stack display={'flex'} flex={1} py={4}>
-        {displayedItems.map((x) => (
-          <MagicItem key={x.item.name} displayItem={x} />
-        ))}
-      </Stack>
+      <Flex id="results-display" flexDir={'column'} flex={1}>
+        <Flex flexBasis={'40px'} width={'full'} borderBottom={'1px solid #718096'}>
+          {columns.map((column) => (
+            <Text
+              key={column.title}
+              textTransform={'uppercase'}
+              fontWeight={'bold'}
+              p={2}
+              width={column.width ?? ''}
+              flex={column.flex ?? ''}
+              textAlign={column.alignment as ResponsiveValue<CanvasTextAlign>}
+            >
+              {column.title}
+            </Text>
+          ))}
+        </Flex>
+        <Flex overflowY={'auto'} maxHeight={tableHeight} flex={1} flexDir={'column'}>
+          {displayedItems.length > 0 ? (
+            displayedItems.map((x) => <MagicItemRow key={x.item.name} displayItem={x} columns={columns} />)
+          ) : (
+            <Text p={2}>No items</Text>
+          )}
+        </Flex>
+      </Flex>
     </Flex>
   );
 };
 
-export default ResultsDisplay;
+export default ResultsTable;
