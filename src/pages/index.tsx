@@ -26,7 +26,15 @@ const Home: NextPage<IHomeProps> = ({ items }) => {
     <>
       <Head>
         <title>Random 5e</title>
+        <link rel="shortcut-icon" href="/images/tetrahedron_128.png" />
+        <link rel="apple-touch-icon" sizes="128x128" href="/images/tetrahedron_128.png" />
+        <link rel="icon" type="image/png" sizes="128x128" href="/images/tetrahedron_128.png" />
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta name="robots" content="all" />
+        <meta
+          name="description"
+          content="A random item picker for DND 5e where results can be filtered type, rarity and source."
+        />
       </Head>
       <Flex
         minH={'full'}
